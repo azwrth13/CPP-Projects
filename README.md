@@ -1,4 +1,4 @@
-# General README for C++ Projects
+# C++ Projects
 
 This document provides an overview and setup instructions for three distinct C++ projects: CustPorts, PolyClass, and MatrixMath. Each project is designed with specific functionalities in mind, ranging from customer portfolio management to polynomial and matrix operations.
 
